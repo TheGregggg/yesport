@@ -7,7 +7,7 @@ draft: false
 For those who don’t know, the season 2023 of the Trackmania Grand League(TMGL for short) will start
 tommorow. Don’t miss it. For the sleepy head at the bakc of the classroom, i will resume what it is.
 
-The tmgl is a trackmania tournament where 8 teams of 2 players compete.
+The TMGL is a trackmania tournament where 8 teams of 2 players compete.
 
 Those player comes from around the world but, this year, 31 % of players are french.
 
