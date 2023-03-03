@@ -1,7 +1,7 @@
 ---
 title: "Trackmania"
 date: 2023-03-03T07:41:12+01:00
-draft: true
+draft: false
 ---
 
 For those who don’t know, the season 2023 of the Trackmania Grand League(TMGL for short) will start
