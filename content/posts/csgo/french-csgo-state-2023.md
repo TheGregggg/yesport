@@ -2,13 +2,14 @@
 title: "French Csgo State 2023"
 date: 2023-03-06T18:57:25+01:00
 draft: false
+featured_image: "/images/csgo-major.jpg"
 ---
-
-{{< figure src="/csgo-major.png" title="PGL Major Antwerp" caption="Photo taken by HTLV.org, PGL Major Antwerp 2022">}}
 
 # State of the French CSGO Scene in 2023
 
 Counter Strike is more alive than ever in France. With the Blast.tv Paris Major coming very soon, the french are hyped and ready.
+
+_Photo taken by [HTLV.org](https://www.hltv.org/news/33888/best-photos-from-the-pgl-major-antwerp), PGL Major Antwerp 2022_
 
 ## The Major
 
