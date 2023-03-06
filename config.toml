@@ -2,3 +2,5 @@ baseURL = 'https://TheGregggg.github.io/yesport/'
 languageCode = 'en-us'
 title = 'Yesport'
 theme = 'ananke'
+[params]
+    commentoEnable = true
