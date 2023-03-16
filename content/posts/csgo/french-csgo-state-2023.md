@@ -66,3 +66,4 @@ Hope this little up to date of the state of CSGO at the beginning of the year pl
 - https://www.insalan.fr/
 - https://www.nantarena.net/
 - https://www.vice.com/fr/article/y3p87m/apex-veut-mettre-le-counter-strike-francais-sur-le-toit-du-monde
+- My one and only Girlfriend
