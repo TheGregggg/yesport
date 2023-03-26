@@ -23,3 +23,11 @@ SectionPagesMenu = "main"
   name = 'Trackmania'
   pageRef = '/categories/trackmania'
   weight = 40
+[[menu.main]]
+  name = 'Splatoon'
+  pageRef = '/categories/splatoon'
+  weight = 50
+[[menu.main]]
+  name = 'Everything'
+  pageRef = '/categories'
+  weight = 60
