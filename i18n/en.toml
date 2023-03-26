@@ -1,0 +1,2 @@
+[taxonomyPageList]
+other = "All the “{{ .Title }}” articles"
