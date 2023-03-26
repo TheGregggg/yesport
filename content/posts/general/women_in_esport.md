@@ -17,11 +17,16 @@ Some big organizations are starting to highlight women's teams on games like lea
 
 In fact, in the esport, it is quite particular because there is no notion of physical difference between men and women. The main competitions should then be supposed to be mixed. There are exclusively female competitions but these are not known at all because they are not highlighted.
 
-![G2 Hel team](/yesport/images/G2-hel.jpg)
-
 Thus, to use the example of G2 Hel again, it is a team that tries to access the main competitions by winning increasingly important tournaments as would other teams usually do.
 
+![G2 Hel team](/yesport/images/G2-hel.jpg)
+
 G2 Hel is currently participating to a competition called division 2. This is the competition that comes before the national league. After the national league, it is the LEC, the European championship, that allows access to the world championships.
+
+This is only one example of integration of women in esport but it is something that
+finally emerges in many games. This is very positive even if it remains too slow, the
+notion of equality between men and women should already be fully integrated in all
+areas of society.
 
 ## Sources
 
