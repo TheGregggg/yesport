@@ -4,7 +4,7 @@ date: 2023-03-26T13:18:39+02:00
 draft: false
 featured_image: "/images/g2-hel-banner.jpg"
 categories:
-  - general
+  - General
 ---
 
 I would like to be interested in this chronicle to women in esport.
