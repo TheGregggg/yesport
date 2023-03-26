@@ -3,8 +3,8 @@ title: "State of the French CSGO Scene in 2023"
 date: 2023-03-06T18:57:25+01:00
 draft: false
 featured_image: "/images/csgo-major.jpg"
-taxonomies:
-  category: CS:GO
+categories:
+  - CSGO
 ---
 
 Counter Strike is more alive than ever in France. With the Blast.tv Paris Major coming very soon, the French are hyped and ready.
