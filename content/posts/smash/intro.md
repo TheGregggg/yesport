@@ -11,7 +11,7 @@ Super Smash Bros. Ultimate (SSBU), or just Smash for short, is a fighting game, 
 
 _Official nintendo banner for the game [Nintendo.com](https://www.nintendo.com/fr-ca/store/products/super-smash-bros-ultimate-switch/)_
 
-![Logo of Super Smash Bros. Ultimate]("/static/images/ssbu-logo.png")
+![Logo of Super Smash Bros. Ultimate](/static/images/ssbu-logo.png)
 
 There are two ways to play the game : You can play in a solo campaign called World Of Light, or you can fight freely against other players or AI.
 
