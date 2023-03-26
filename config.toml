@@ -8,14 +8,18 @@ theme = 'ananke'
 SectionPagesMenu = "main"
 [menu]
 [[menu.main]]
-  name = 'Home'
-  pageRef = '/'
+  name = 'Esport'
+  pageRef = '/categories/general'
   weight = 10
 [[menu.main]]
-  name = 'Products'
-  pageRef = '/products'
+  name = 'Smash'
+  pageRef = '/categories/smash'
   weight = 20
 [[menu.main]]
-  name = 'Services'
-  pageRef = '/services'
+  name = 'CSGO'
+  pageRef = '/categories/csgo'
   weight = 30
+[[menu.main]]
+  name = 'Trackmania'
+  pageRef = '/categories/trackmania'
+  weight = 40
