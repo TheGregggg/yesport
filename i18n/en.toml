@@ -1,2 +1,2 @@
 [taxonomyPageList]
-other = "All the “{{ .Title }}” articles"
+other = "<center>All the {{ .Title }} articles</center>"
