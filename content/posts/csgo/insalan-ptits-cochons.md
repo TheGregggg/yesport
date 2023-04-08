@@ -13,15 +13,15 @@ Yesport was invited to cover Ptits Cochons esport team in their trip to the 'Ins
 
 We got access to the event in advance thanks to Greg and his badge.
 
-![Insalan badge]("/yesport/images/insalan-pass.jpg")
+![Insalan badge](/yesport/images/insalan-pass.jpg)
 
 The ambience was soothing but weird, there was not a lot of player, the lan just opened and there was a lot a empty table. But it was cool to be with player loving gaming in general and in the CSGO zone, player loving csgo of course.
 
-![Friday Insalan's photo]("/yesport/images/insalan-friday.jpg")
+![Friday Insalan's photo](/yesport/images/insalan-friday.jpg)
 
 After the players of Ptits Cochons installed there computers, they were playing like crazy ! They told us that they didn't manage to playe together before the lan ! What a scoop !
 
-![Friday Insalan's photo]("/yesport/images/Ptits-cochons.jpg")
+![Friday Insalan's photo](/yesport/images/Ptits-cochons.jpg)
 
 At 1AM, they were starting to shutdown the gamings PCs . They got invited in a friend house in Renne to sleep, "it was cool" as they said.
 
@@ -41,7 +41,7 @@ Two games and two wins so far !
 At this time it was 1PM and it was the lunch pause. They ate  
 cheese ham sandwiches like !
 
-![Friday Insalan's photo]("/yesport/images/insalan.jpg")
+![Friday Insalan's photo](/yesport/images/insalan.jpg)
 
 After eating, it was time to compete again and the third match began immediately. Ptits cochon were playing against KAMIKAZE. on the map Anubis It was a hard game for the team and they lose with an hard 1 to 16 score. They were very strong.
 
@@ -52,12 +52,12 @@ The last game of the groupes matches was against MAISON2RETRAITE on Inferno agai
 Ptits cochons finished the 5 groupes matches with 2 win and 3 loses. Not bad for a first time for some of the Ptits chochons player like TomyJ and Gregggg.
 The team is now in the amature bracket.
 
-![Ptits cochon trio Insalan's photo]("/yesport/images/insalan-trio.jpg")
+![Ptits cochon trio Insalan's photo](/yesport/images/insalan-trio.jpg)
 
 After the diner pause. The bracket began immediatly and they first played against the Dynas Red, an other team from the Dynas groupes. They played on Vertigo. And the team start strong the bracket with a solid win with 16 to 4 as the final score ! GG Ptits Cochons.
 With this win Ptit Cochon go to the quarter-fianl of the armature bracket !
 
-![Tomyj Insalan's photo]("/yesport/images/insalan-tomyj.jpg")
+![Tomyj Insalan's photo](/yesport/images/insalan-tomyj.jpg)
 
 Shorlty after, Ptits cochons played against ROTATE again on Mirage. The match was close at the beginning until Ptits Cochons understand their oponents and destroyed them. They win with 16 rounds to 7.
 With this Ptits Cochon goes to semi-finals !
@@ -74,7 +74,7 @@ The next day, the matches started at 11AM.
 
 Ptits Cochons played against LES ZINZINS DE L'ESPACE. If they lose there out, if they win they can stay in the looser bracket.
 
-![Gregggg Insalan's photo]("/yesport/images/insalan-gregggg.jpg")
+![Gregggg Insalan's photo](/yesport/images/insalan-gregggg.jpg)
 _Gregggg being fully concentrate in his game_
 
 And after 40min of hard competition. Ptits cochons lose and is out of the tournament. They lose 4 rounds to 16 on Inferno.
