@@ -4,8 +4,8 @@ title = 'Yesport'
 theme = 'ananke'
 [params]
     commentoEnable = true
-    favicon = "favicon.png"
-    site_logo = "logo.png"
+    favicon = "images/favicon.png"
+    site_logo = "images/logo.png"
     recent_posts_number = 10
 
 SectionPagesMenu = "main"
