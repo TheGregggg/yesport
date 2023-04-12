@@ -4,8 +4,12 @@ title = 'Yesport'
 theme = 'ananke'
 [params]
     commentoEnable = true
+    favicon = "favicon.png"
+    site_logo = "logo.png"
 
 SectionPagesMenu = "main"
+Paginate = 10
+
 [menu]
 [[menu.main]]
   name = 'Esport'
