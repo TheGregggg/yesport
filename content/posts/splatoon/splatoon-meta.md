@@ -1,6 +1,6 @@
 ---
 title: "Splatoon 3, and the difficulty of creating a healthy metagame"
-date: 2023-04-12T18:57:25+01:00
+date: 2023-04-11T18:57:25+01:00
 draft: false
 featured_image: "/images/splatoon/6.png"
 categories:
