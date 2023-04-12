@@ -129,6 +129,7 @@ To be fair, this issue concerning maps is not an isolated case, and was present 
 ## Sources
 
 -   https://liquipedia.net/splatoon/20XX_Series/3
+-   https://splatoonwiki.org/wiki
 -   Prochara youtube channel
 -   Squid school youtube channel
 -   SRBT youtube channel
