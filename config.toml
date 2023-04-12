@@ -6,6 +6,7 @@ theme = 'ananke'
     commentoEnable = true
     favicon = "favicon.png"
     site_logo = "logo.png"
+    recent_posts_number = 10
 
 SectionPagesMenu = "main"
 Paginate = 10
