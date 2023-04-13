@@ -4,8 +4,13 @@ title = 'Yesport'
 theme = 'ananke'
 [params]
     commentoEnable = true
+    favicon = "images/favicon.png"
+    site_logo = "images/logo.png"
+    recent_posts_number = 20
 
 SectionPagesMenu = "main"
+Paginate = 20
+
 [menu]
 [[menu.main]]
   name = 'Esport'
@@ -27,7 +32,3 @@ SectionPagesMenu = "main"
   name = 'Splatoon'
   pageRef = '/categories/splatoon'
   weight = 50
-[[menu.main]]
-  name = 'Everything'
-  pageRef = '/categories'
-  weight = 60
