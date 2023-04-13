@@ -1,5 +1,5 @@
 ---
-title: "What Make Csgo and Esport Game"
+title: "What Makes Csgo an Esport Game"
 date: 2023-04-10T14:49:46+02:00
 draft: false
 featured_image: "/images/csgo.png"
