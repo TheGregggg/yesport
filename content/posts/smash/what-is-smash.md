@@ -2,6 +2,9 @@
 title: "What is Super Smash Bros. Ultimate ?"
 date: 2023-04-17T09:24:57+02:00
 draft: False
+featured_image: "/images/ssbu-logo.png"
+categories:
+  - Smash
 ---
 
 Super Smash Bros. Ultimate (SSBU), or just Smash for short, is a fighting game, released in 2018, developed by Sora Ltd, and Bandai Namco and published by Nintendo. It’s the fifth game of the Super Smash Bros Series. The games feature a lot of characters (up to 80 with DLC) from Nintendo Mascots, like Mario or Link, to third party franchises, like Minecraft or Final Fantasy.

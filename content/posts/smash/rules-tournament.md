@@ -2,6 +2,9 @@
 title: "The rules of the game in tournaments"
 date: 2023-04-17T09:33:23+02:00
 draft: false
+featured_image: "/images/smash-main-image.avif"
+categories:
+  - Smash
 ---
 
 To make sure everyone is on the same level of equity, there is rules that are established and are the sames in every tournament, and that's what we will talk about today.
