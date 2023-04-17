@@ -2,18 +2,18 @@
 title: "GUIDE: The attack in Super Smash Bros. Ultimate (Part 1)."
 date: 2023-04-17T09:31:31+02:00
 draft: false
-featured_image: "/images/pikachu.png"
+featured_image: "/images/pikachu.jpg"
 categories:
-  - Smash
+    - Smash
 ---
 
 In Super Smash Bros Ultimate, There are a lot of different attacks for each character, and they all have the same pattern of inputs, to be used : a button and a direction on the left joystick. The button is used to determine the type of attacks, which we will talk about a bit later on. The joystick determines which attack of this type will be used and there are four possibilities.
 
-- Neutral, with no inputs of the joystick .
-- Side , with the joystick put to the left or right
-- Up, with the joystick put to the top
-- Down, with the joystick put to the bottom
-  From there, I will call each attack with the direction and the type, like down B. for example. And about the types, let’s get to the first one : Special Attacks
+-   Neutral, with no inputs of the joystick .
+-   Side , with the joystick put to the left or right
+-   Up, with the joystick put to the top
+-   Down, with the joystick put to the bottom
+    From there, I will call each attack with the direction and the type, like down B. for example. And about the types, let’s get to the first one : Special Attacks
 
 ## Special Attacks :
 
